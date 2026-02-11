@@ -7,6 +7,5 @@ My name is Wesley, and I'm currently a third-year student at Northeastern Univer
 
 </div>
 
----
 
 **Contact:** chapman.w@northeastern.edu | [LinkedIn](https://linkedin.com/in/wesley-chapmann)
