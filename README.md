@@ -1,8 +1,8 @@
 # Hi, I'm Wesley 👋
 
-### Data Science & Supply Chain @ Northeastern 
+### Data Science & Business @ Northeastern 
 
-<div align="center">
+<div >
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chapman-w&theme=tokyonight&hide_border=true)
 
