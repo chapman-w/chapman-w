@@ -1,6 +1,6 @@
-## Hi There 👋
+## Wesley Chapman
 
-My name is Wesley, and I'm currently a third-year student at Northeastern University studying Data Science and Business.
+I'm currently a third-year student at Northeastern University studying Data Science and Business.
 <div align = "center" >
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chapman-w&theme=tokyonight&hide_border=true)
